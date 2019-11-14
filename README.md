@@ -1,12 +1,12 @@
 # OVI
 OVI
-<!DOCTYPE html>
 <html lang="es">
     <head>
             <meta charset="utf=8" />
             <title>OVI</title>
-            <meta name="Autor" content="Yoly Mosquera" />
+            <meta name="Autor" content="Yoly Mosquera, Jerlen Rodriguez" />
             <link rel="stylesheet" href="Estilos.css"
+        
     </head>
     <body>
         <div class="agrupar">
