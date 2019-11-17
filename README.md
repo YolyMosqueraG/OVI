@@ -18,10 +18,10 @@ OVI
                 <nav class="menu">
                     <ul>
 
-                        <a href="La función de HTML y de CSS.pdf">FUNCIONES HTML5 y CSS</a><br>
+                        <a href="https://developer.mozilla.org/es/docs/HTML/HTML5/HTML5_lista_elementos">FUNCIONES HTML5 y CSS</a><br>
                         
 
-                        <a href="Editor web.pdf">EDITOR WEB</a><br>
+                        <a href="https://informaticamaiti.wordpress.com/inicio/diseno-web/editores-web/">EDITOR WEB</a><br>
                     </ul>
                 </nav>
         
